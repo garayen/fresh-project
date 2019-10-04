@@ -1,0 +1,1 @@
+This is fresh project created by git init and this file is test2
